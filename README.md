@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Mehti Abdullahi
 
-### 💻 Junior Frontend Developer | React & Next.js Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;React+%7C+Next.js+Developer;Always+Learning+%26+Building;Turning+Ideas+Into+Web+Experiences" alt="Typing SVG" />
+### 💻 Junior Frontend Developer | Full-Stack Developer in Progress
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MehtiAbdullahi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Frontend+Developer;React+%7C+Next.js+Developer;Always+Learning+%26+Building;Future+Full-Stack+Web+Developer" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,10 +15,11 @@ I'm **Mehti Abdullahi**, a **Junior Frontend Developer** passionate about buildi
 I'm constantly learning, experimenting with new technologies, and improving my development skills by building real projects.
 
 * 🌱 Currently learning **Next.js**
-* 💙 Passionate about **React & modern frontend development**
+* 💙 Passionate about **JavaScript & modern web development**
 * 🧠 Always curious about new technologies and better ways to build things
-* 🛠️ Building projects to strengthen my skills and prepare for the professional market
-* 🎯 My goal is to become a strong and professional Frontend Developer
+* 🛠️ Building projects to strengthen my skills and gain practical experience
+* 🚀 Working towards becoming a **Full-Stack Web Developer**
+* 🎯 My goal is to build complete, modern, and scalable web applications from frontend to backend
 
 ---
 
@@ -38,13 +37,7 @@ I'm constantly learning, experimenting with new technologies, and improving my d
   <img src="https://skillicons.dev/icons?i=git,github,npm,graphql" />
 </p>
 
-### 📚 Also Comfortable With
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=css,react,redux,vite" />
-</p>
-
-**Core Skills:**
+### 💻 Core Skills
 
 `HTML` `CSS` `Tailwind CSS` `Flexbox` `CSS Grid`
 `JavaScript` `TypeScript` `React` `Redux` `React Router`
@@ -54,11 +47,13 @@ I'm constantly learning, experimenting with new technologies, and improving my d
 
 ## 🌱 Currently Learning
 
-### Next.js
+### Next.js 🚀
 
-I'm currently taking my frontend journey to the next level by learning **Next.js** and exploring modern React-based application development.
+I'm currently deepening my knowledge of **Next.js** and modern React-based application development.
 
-My current learning path:
+After strengthening my frontend skills, my next goal is to dive into **backend development** and gradually build my path toward becoming a **Full-Stack Web Developer**.
+
+### 🗺️ My Learning Path
 
 ```text
 HTML / CSS
@@ -73,7 +68,11 @@ TypeScript
      ↓
 Next.js 🚀
      ↓
-💼 Ready for the Professional World
+Backend Development
+     ↓
+Databases & APIs
+     ↓
+Full-Stack Web Developer 💻
 ```
 
 ---
@@ -82,13 +81,14 @@ Next.js 🚀
 
 ### 💼 Portfolio Website
 
-My personal portfolio website built to showcase my frontend skills, projects, and experience.
+My personal portfolio website built to showcase my frontend skills, projects, and development journey.
 
 **Tech used:**
 
 `React` `Vite` `JavaScript` `CSS` `Git`
 
 🔗 **Repository:**
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/MehtiAbdullahi/Portfolio)
 
 > 🚧 More projects are coming soon. I'll be adding my latest projects here as I publish them on GitHub.
@@ -97,7 +97,7 @@ My personal portfolio website built to showcase my frontend skills, projects, an
 
 ## 📂 More Projects
 
-I'm continuously working on new projects to improve my skills and explore new technologies.
+I'm continuously working on new projects to improve my skills, experiment with new technologies, and gain practical experience.
 
 You can find more of my projects here:
 
@@ -131,8 +131,9 @@ You can find more of my projects here:
 const mehti = {
   name: "Mehti Abdullahi",
   role: "Junior Frontend Developer",
+  goal: "Full-Stack Web Developer",
 
-  skills: [
+  frontend: [
     "HTML",
     "CSS",
     "Tailwind CSS",
@@ -141,22 +142,27 @@ const mehti = {
     "React",
     "Redux",
     "React Router",
-    "Next.js",
-    "GraphQL"
+    "Next.js"
+  ],
+
+  technologies: [
+    "GraphQL",
+    "Vite"
   ],
 
   tools: [
     "Git",
     "GitHub",
-    "npm",
-    "Vite"
+    "npm"
   ],
 
   currentlyLearning: "Next.js",
 
+  nextStep: "Backend Development",
+
   mindset: "Learn → Build → Experiment → Improve",
 
-  goal: "Become a professional Frontend Developer"
+  mission: "Build complete and modern web applications"
 };
 ```
 
@@ -164,7 +170,7 @@ const mehti = {
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with other developers, learning from new people, and talking about frontend development.
+I'm always open to connecting with other developers, learning from new people, and talking about web development, technology, and new ideas.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mehti-abdullahi-77069b390/">
