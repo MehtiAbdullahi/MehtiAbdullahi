@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Mehti Abdullahi
 
-### 💻 Junior Frontend Developer | Full-Stack Developer in Progress
+### 💻 Frontend Developer | Full-Stack Developer in Progress
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&color=58A6FF&center=true&vCenter=true&width=700&lines=Junior+Frontend+Developer;React+%7C+Next.js+Developer;Always+Learning+%26+Building;Future+Full-Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Always+Learning+%26+Building;Future+Full-Stack+Web+Developer" alt="Typing SVG" />
 </p>
 
 ---
