@@ -41,7 +41,7 @@ I'm constantly learning, experimenting with new technologies, and improving my d
 
 `HTML` `CSS` `Tailwind CSS` `Flexbox` `CSS Grid`
 `JavaScript` `TypeScript` `React` `Redux` `React Router`
-`Next.js` `GraphQL` `Vite` `npm` `Git` `GitHub`
+`Next.js` `Vite` `npm` `Git` `GitHub`
 
 ---
 
@@ -143,11 +143,6 @@ const mehti = {
     "Redux",
     "React Router",
     "Next.js"
-  ],
-
-  technologies: [
-    "GraphQL",
-    "Vite"
   ],
 
   tools: [
