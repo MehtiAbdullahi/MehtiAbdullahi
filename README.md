@@ -1,190 +1,128 @@
-# 👋 Hi, I'm Mehti Abdullahi
+# Hi, I'm Mehti Abdullahi 👋
 
-### 💻 Frontend Developer | Full-Stack Developer in Progress
+### Frontend Developer · React · JavaScript
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=5000&color=58A6FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;Always+Learning+%26+Building;Future+Full-Stack+Web+Developer" alt="Typing SVG" />
-</p>
+I'm a self-taught **Frontend Developer** who enjoys turning ideas into modern, responsive, and interactive web experiences.
 
----
-
-## 🚀 About Me
-
-I'm **Mehti Abdullahi**, a **Junior Frontend Developer** passionate about building modern, responsive, and user-friendly web experiences.
-
-I'm constantly learning, experimenting with new technologies, and improving my development skills by building real projects.
-
-* 🌱 Currently learning **Next.js**
-* 💙 Passionate about **JavaScript & modern web development**
-* 🧠 Always curious about new technologies and better ways to build things
-* 🛠️ Building projects to strengthen my skills and gain practical experience
-* 🚀 Working towards becoming a **Full-Stack Web Developer**
-* 🎯 My goal is to build complete, modern, and scalable web applications from frontend to backend
+I care about writing code that is **clean, understandable, maintainable, and thoughtfully structured**. For me, building a project is not just about making it work — it's also about understanding why it works, improving it over time, and finding better ways to solve problems.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 How I Build
 
-### 🎨 Frontend
+I believe good frontend development is a combination of **problem solving, attention to detail, and continuous improvement**.
+
+When building a project, I care about:
+
+* Writing clean and maintainable code
+* Building reusable and well-structured components
+* Creating responsive interfaces that work across different screen sizes
+* Keeping the user experience simple and intuitive
+* Understanding the tools and technologies I use rather than using them blindly
+* Refactoring and improving code as my knowledge grows
+
+I also believe that a project is never truly "finished". There is always something that can be improved, simplified, optimized, or learned from.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,reactrouter,nextjs,tailwind,bootstrap,vite" />
 </p>
 
-### 🛠️ Tools & Technologies
+### Backend & Services
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,graphql" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
 </p>
 
-### 💻 Core Skills
+### Tools
 
-`HTML` `CSS` `Tailwind CSS` `Flexbox` `CSS Grid`
-`JavaScript` `TypeScript` `React` `Redux` `React Router`
-`Next.js` `Vite` `npm` `Git` `GitHub`
-
----
-
-## 🌱 Currently Learning
-
-### Next.js 🚀
-
-I'm currently deepening my knowledge of **Next.js** and modern React-based application development.
-
-After strengthening my frontend skills, my next goal is to dive into **backend development** and gradually build my path toward becoming a **Full-Stack Web Developer**.
-
-### 🗺️ My Learning Path
-
-```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-React
-     ↓
-Redux / React Router
-     ↓
-TypeScript
-     ↓
-Next.js 🚀
-     ↓
-Backend Development
-     ↓
-Databases & APIs
-     ↓
-Full-Stack Web Developer 💻
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,npm" />
+</p>
 
 ---
 
-## 📌 Featured Project
+## 🚀 Selected Projects
 
 ### 💼 Portfolio Website
 
-My personal portfolio website built to showcase my frontend skills, projects, and development journey.
+My personal portfolio website, built to showcase my projects and development work.
 
-**Tech used:**
+It features a bilingual English/Persian interface, responsive design, animated backgrounds, dynamic project data, authentication, form validation, and a custom alert system.
 
-`React` `Vite` `JavaScript` `CSS` `Git`
+**Built with:**
 
-🔗 **Repository:**
+`React` `Vite` `Redux` `CSS Modules` `Supabase`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/MehtiAbdullahi/Portfolio)
-
-> 🚧 More projects are coming soon. I'll be adding my latest projects here as I publish them on GitHub.
+[Live Website](https://mehtiabdullahi.github.io/Portfolio/) · [Source Code](https://github.com/MehtiAbdullahi/Portfolio)
 
 ---
 
-## 📂 More Projects
+### 📊 Admin Dashboard
 
-I'm continuously working on new projects to improve my skills, experiment with new technologies, and gain practical experience.
+A responsive admin dashboard designed around multiple management sections including users, products, calendar, inbox, and team management.
 
-You can find more of my projects here:
+The project includes authentication, account management, multilingual support for English, Persian, and Arabic, state management, and backend integration with Supabase.
 
-<p align="left">
-  <a href="https://github.com/MehtiAbdullahi?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-181717?style=for-the-badge&logo=github" alt="View Projects" />
-  </a>
-</p>
+**Built with:**
 
----
+`React` `Redux` `CSS Modules` `Supabase`
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MehtiAbdullahi&hide_border=true" alt="GitHub Streak" />
-</p>
+[Source Code](https://github.com/MehtiAbdullahi/Dashboard-Admin-1)
 
 ---
 
-## 📈 Contribution Graph
+## 🌱 Continuous Growth
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehtiAbdullahi&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
+I see development as a continuous process rather than a fixed destination.
+
+I'm always working on two things at the same time: **learning new technologies and deepening my understanding of the technologies I already use**.
+
+I regularly revisit my personal projects to improve their code, refactor older implementations, enhance the user experience, optimize existing solutions, and experiment with new technologies and approaches.
+
+I believe that becoming a better developer is not only about learning what's next, but also about becoming better at what you already know.
+
+My long-term goal is to grow into a **Full-Stack Web Developer**, while continuing to build a strong and deep foundation in frontend development.
 
 ---
 
-## 🧑‍💻 A Little More About My Journey
+## 🧩 Beyond the Code
 
-```javascript
-const mehti = {
-  name: "Mehti Abdullahi",
-  role: "Junior Frontend Developer",
-  goal: "Full-Stack Web Developer",
+A large part of my learning comes from building things myself.
 
-  frontend: [
-    "HTML",
-    "CSS",
-    "Tailwind CSS",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Redux",
-    "React Router",
-    "Next.js"
-  ],
+I learn by experimenting, making mistakes, debugging, researching, refactoring, and trying again.
 
-  tools: [
-    "Git",
-    "GitHub",
-    "npm"
-  ],
+My mindset is simple:
 
-  currentlyLearning: "Next.js",
-
-  nextStep: "Backend Development",
-
-  mindset: "Learn → Build → Experiment → Improve",
-
-  mission: "Build complete and modern web applications"
-};
+```text
+Learn → Build → Understand → Improve → Repeat
 ```
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with other developers, learning from new people, and talking about web development, technology, and new ideas.
+I'm always interested in connecting with developers, sharing ideas, discussing web development, and learning from different perspectives.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mehti-abdullahi-77069b390/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://t.me/MehtiAbdullahi">
-    <img src="https://img.shields.io/badge/Telegram-@MehtiAbdullahi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:mehtiabdullahi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>💙 Thanks for visiting my profile!</b>
-</p>
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep improving. 🚀</i>
+  <i>Keep learning. Keep building. Keep improving.</i> 🚀
 </p>
